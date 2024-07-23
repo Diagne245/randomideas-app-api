@@ -1,6 +1,6 @@
 # RandomIdeas App
 
-This is a fullstack application for sharing random ideas. It is a project from the **Modern JS From The Beginning 2.0** Traversy Media Udemy course.
+This is a fullstack application for sharing random ideas. It is a project from the [**Modern JS From The Beginning 2.0**](https://www.udemy.com/course/modern-javascript-from-the-beginning/?kw=modern+javascript+from+the+beg&src=sac&couponCode=LETSLEARNNOW) Traversy Media Udemy course.
 
 This app includes a Node.js/Express REST API that uses MongoDB for a database. The client-side is built with Webpack.
 
@@ -12,7 +12,7 @@ This app includes a Node.js/Express REST API that uses MongoDB for a database. T
 
 Install dependencies on the front-end and back-end (Be Sure to be in the root folder of the project)
 
-### Front-End/Webpack  
+### Front-End/Webpack
 
 ```bash
 npm install
@@ -68,8 +68,7 @@ MONGO_URI=your_mongodb_uri
 
 When updating or deleting, the username must match the username of the idea creator.
 
-### Features to Add ###
-- implement authentication:  
-  add password field to schema and store it into database
+### Features to Add
 
-
+- #### implement authentication:  
+  Add password field to schema and store it into database - encrypt it
