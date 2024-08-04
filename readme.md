@@ -1,12 +1,13 @@
 # RandomIdeas App
 
-This is a fullstack application for sharing random ideas. It is a project from the [**Modern JS From The Beginning 2.0**](https://www.udemy.com/course/modern-javascript-from-the-beginning/?kw=modern+javascript+from+the+beg&src=sac&couponCode=LETSLEARNNOW) Traversy Media Udemy course.
+Demo:&ensp;**https://randomideas-8sh8.onrender.com/**
 
-This app includes a Node.js/Express REST API that uses MongoDB for a database. The client-side is built with Webpack.
+This is a fullstack application for sharing random ideas. It is a project from the [Modern JS From The Beginning 2.0](https://www.udemy.com/course/modern-javascript-from-the-beginning/?kw=modern+javascript+from+the+beg&src=sac&couponCode=LETSLEARNNOW) `Traversy Media` Udemy course.
+
+This app includes a `Node.js/Express` REST API that uses `MongoDB` for a database. The client-side is built with `Webpack`.
 
 ![app screenshot](/client/src/assets/screen.png)
 
-Demo:&ensp;**https://randomideas-8sh8.onrender.com/**
 
 ## Usage
 
@@ -72,5 +73,6 @@ When updating or deleting, the username must match the username of the idea crea
 
 ### Features to Add
 
-- #### implement authentication:  
-  Add password field to schema and store it into database - encrypt it
+#### implement authentication:  
+  - Add password field to schema and store it into database 
+  - Add encryption
